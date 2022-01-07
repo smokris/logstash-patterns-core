@@ -1,3 +1,7 @@
+## 4.3.2
+
+- Fix: typo in BIN9_QUERYLOG pattern (in ECS mode) [#307](https://github.com/logstash-plugins/logstash-patterns-core/pull/307)
+
 ## 4.3.1
 
 - Fix: incorrect syslog (priority) field name [#303](https://github.com/logstash-plugins/logstash-patterns-core/pull/303)
