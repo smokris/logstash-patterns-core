@@ -1,3 +1,6 @@
+## 4.3.4
+  - Fix: typo in CISCOFW302013_302014_302015_302016 grok pattern [#313](https://github.com/logstash-plugins/logstash-patterns-core/pull/313)
+
 ## 4.3.3
 
 - Fix: parsing x-edge-location in CLOUDFRONT_ACCESS_LOG (ECS mode) [#311](https://github.com/logstash-plugins/logstash-patterns-core/pull/311)
